@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:icon="@drawable/ic_menu"
+        android:title="@string/home"
+        android:id="@+id/home"/>
+    <item
+        android:icon="@drawable/ic_money_way"
+        android:title="@string/money_way"
+        android:id="@+id/money"/>
+    <item
+        android:icon="@drawable/ic_strategy"
+        android:title="@string/strategy"
+        android:id="@+id/about"/>
+    <item
+        android:icon="@drawable/ic_wallet"
+        android:title="@string/tips"
+        android:id="@+id/tips"/>
+
+    <item
+        android:icon="@drawable/ic_history"
+        android:title="@string/file"
+        android:id="@+id/file"/>
+</menu>
